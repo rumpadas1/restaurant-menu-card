@@ -41,6 +41,6 @@ To view the webpage:
 
 ## Images
 
-[https://github.com/rumpadas1/restaurant-menu-card/blob/main/Screenshot%20(302).png]
+![Restaurant Menu Card](https://github.com/rumpadas1/restaurant-menu-card/blob/main/Screenshot%20(302).png)
 
 
