@@ -1,1 +1,40 @@
-# restaurant-menu-card
+# The Blue Heaven Restaurant Webpage
+
+This is a static HTML webpage for "The Blue Heaven Restaurant", showcasing a menu with starters, main courses, and desserts. The webpage uses HTML table tags to structure the content and inline CSS for basic styling.
+
+## Project Structure
+
+- **index.html**: The main HTML file that creates the structure and content of the webpage.
+
+## Features
+
+- **Title**: The page has the title "Create a static webpage using table tags of HTML."
+- **Header**: Displays the restaurant name in a blue background with white text.
+- **Menu Sections**:
+  - **Starters**: Includes items like Chilli Prawn, Chicken Lollipop, and Paneer Tikka with images and prices.
+  - **Main Courses**: Features Chicken Biriyani, Butter Chicken with Naan, and Fried Chicken Momo with images and prices.
+  - **Desserts**: Lists Cheesecake with an image and price.
+
+## Usage
+
+To view the webpage:
+
+1. Clone the repository or download the `index.html` file.
+2. Open the `index.html` file in any modern web browser.
+
+## HTML and CSS Details
+
+- **HTML**: Utilizes table elements to structure the content. Each category (Starters, Main Courses, Desserts) is represented using nested tables within the main table.
+- **CSS**: Basic styling applied through the `<style>` tag in the HTML `<head>`. It sets the font family for the table.
+- **Background Color**: Light gray background (`#f0f0f0`) for the body.
+- **Table Styling**: 
+  - **Width**: 60% of the browser window, centered.
+  - **Border**: 1px solid border around the main table.
+  - **Cell Padding**: 2 pixels.
+  - **Cell Spacing**: 0 pixels.
+
+## Images
+
+The images used in the tables are referenced by their file names (e.g., `Screenshot (124).png`). Ensure that these image files are in the same directory as the HTML file or adjust the `src` attributes accordingly.
+
+
