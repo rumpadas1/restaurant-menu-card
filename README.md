@@ -41,6 +41,6 @@ To view the webpage:
 
 ## Images
 
-The images used in the tables are referenced by their file names (e.g., `Screenshot (124).png`). Ensure that these image files are in the same directory as the HTML file or adjust the `src` attributes accordingly.
+[https://github.com/rumpadas1/restaurant-menu-card/blob/main/Screenshot%20(302).png]
 
 
